@@ -3,9 +3,13 @@
 # comes with Ruby!
 
 def reverse_a_string(string)
+
+	characters = string.split(" ")
+
+	reversed = []
+
 	
-	word = string.split("")
-	array = 
+	
 end
 
 # Driver code - don't touch anything below this line.
